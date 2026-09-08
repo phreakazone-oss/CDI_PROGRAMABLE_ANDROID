@@ -1,0 +1,6 @@
+{
+  "name": "NS200 CDI R7",
+  "description": "ECU dashboard and BLE telemetry control for NS200 CDI R7",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
