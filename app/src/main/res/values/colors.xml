@@ -1,0 +1,14 @@
+<resources>
+    <color name="canvas_background">#0A0B0D</color>
+    <color name="surface_1">#111214</color>
+    <color name="surface_1_alt">#151619</color>
+    <color name="surface_2">#1A1B1E</color>
+    <color name="border">#222222</color>
+    <color name="border_strong">#333333</color>
+    <color name="primary_accent">#F27D26</color>
+    <color name="success_armed">#00FF00</color>
+    <color name="telemetry_data">#00E5FF</color>
+    <color name="warning_hazard">#FF4444</color>
+    <color name="text_primary">#F0F2F4</color>
+    <color name="text_muted">#9AA0A6</color>
+</resources>
